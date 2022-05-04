@@ -3,9 +3,10 @@
   position: fixed;
   left: 50%;
   top: 2%;
-  width:800px;
+  /* width:800px */
+  width:850px;
   height: 650px;
-  margin-left: -400px;
+  margin-left: -500px;
   margin-right: -325px;
   font-family: 	Microsoft YaHei;
   border: 5px solid black;
